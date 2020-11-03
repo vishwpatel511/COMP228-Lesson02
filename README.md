@@ -1,2 +1,2 @@
-# COMP228-Lesson02
-Just getting my hands dirty with Java
+Just getting my hands dirty with Java OOPs concepts including encapsulation, classes and objects
+
